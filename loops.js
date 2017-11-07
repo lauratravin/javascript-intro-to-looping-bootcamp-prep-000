@@ -1,4 +1,4 @@
-var myArray;
+var myArray = new Array();
 
 
 function forLoop(myArray){
